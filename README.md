@@ -1,5 +1,5 @@
 # Image-to-ASCII
-Creates an ASCII Image from a standard image file
+Creates an ASCII Image from a standard image file, using the stb_image library.
 
 Simply drag the file onto the executable or specify the file path when running it on the command line.
 
